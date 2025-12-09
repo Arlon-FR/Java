@@ -1,1 +1,1 @@
-Desafio que realizado em JAVA
+Desafios que realizado em JAVA
